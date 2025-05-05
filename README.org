@@ -1,8 +1,8 @@
 * Uso da Água e Clima
 
-[[https://pt.wikipedia.org/wiki/Ciclo_hidrol%C3%B3gico][** Ciclo da Água]]
+** Ciclo da Água
 
-O ciclo da água, conhecido cientificamente como o ciclo hidrológico, refere-se à troca contínua de água na hidrosfera, entre a atmosfera, a água do solo, águas superficiais, subterrâneas e das plantas. A ciência que estuda o ciclo hidrológico é a hidrologia.
+O [[https://pt.wikipedia.org/wiki/Ciclo_hidrol%C3%B3gico][Ciclo da Água]], conhecido cientificamente como o ciclo hidrológico, refere-se à troca contínua de água na hidrosfera, entre a atmosfera, a água do solo, águas superficiais, subterrâneas e das plantas. A ciência que estuda o ciclo hidrológico é a hidrologia.
 
 Alguns exemplos ou leituras complementares. 
 
