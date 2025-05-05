@@ -1,1 +1,20 @@
 * Uso da Água e Clima
+
+[[https://pt.wikipedia.org/wiki/Ciclo_hidrol%C3%B3gico][** Ciclo da Água]]
+
+O ciclo da água, conhecido cientificamente como o ciclo hidrológico, refere-se à troca contínua de água na hidrosfera, entre a atmosfera, a água do solo, águas superficiais, subterrâneas e das plantas. A ciência que estuda o ciclo hidrológico é a hidrologia.
+
+Alguns exemplos ou leituras complementares. 
+
+ - Ciclo da Água [[https://mundoeducacao.uol.com.br/biologia/ciclo-agua.htm]]
+
+** Clima
+
+"Clima é o conjunto de características e dinâmicas atmosféricas de uma determinada região, analisadas ao longo de um extenso período de tempo. Cada clima presente no nosso planeta é caracterizado por elementos como temperatura, umidade do ar, radiação solar, precipitação e ventos. Esses elementos climáticos recebem a influência dos chamados fatores do clima, como maritimidade e continentalidade, latitude, altitude, relevo e vegetação." Ler mais: [[https://pt.wikipedia.org/wiki/Clima][Clima]].
+
+** Tratamento de Água
+
+
+"O tratamento de água é uma etapa primordial para garantir a saúde e o bem-estar de milhões de pessoas. Imagine, por exemplo, você bebendo uma água com coloração ou sabor estranhos ou usando-a para preparar alimentos. Não é difícil pensar nos problemas de saúde que isso poderia causar. Nesse sentido, a água que chega às nossas casas, transparente e aparentemente limpa, muitas vezes passa por um longo processo até se tornar própria para o consumo."...
+
+
