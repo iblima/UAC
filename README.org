@@ -18,3 +18,8 @@ Alguns exemplos ou leituras complementares.
 "O tratamento de água é uma etapa primordial para garantir a saúde e o bem-estar de milhões de pessoas. Imagine, por exemplo, você bebendo uma água com coloração ou sabor estranhos ou usando-a para preparar alimentos. Não é difícil pensar nos problemas de saúde que isso poderia causar. Nesse sentido, a água que chega às nossas casas, transparente e aparentemente limpa, muitas vezes passa por um longo processo até se tornar própria para o consumo."...
 
 
+* Terceiro Trimestre - 2025
+
+** Mudanças Climáticas
+
+- Vídeos Sobre Mudanças Climáticas [[https://github.com/iblima/UAC/blob/main/Base-Mudancas-Climatica.pdf]]
