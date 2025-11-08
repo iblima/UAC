@@ -22,5 +22,7 @@ Alguns exemplos ou leituras complementares.
 
 ** Mudanças Climáticas
 
+- Pesquisas sobre El Ninã e La Ninã
+  
 - [[https://github.com/iblima/UAC/blob/main/Base-Mudancas-Climatica.pdf][Vídeos Sobre Mudanças Climáticas]]
 
